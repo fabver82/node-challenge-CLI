@@ -1,0 +1,19 @@
+{
+  "name": "node-challenge-cli",
+  "version": "1.0.0",
+  "description": "BeCode challenge about NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fabver82/node-challenge-CLI.git"
+  },
+  "author": "Fabien Vermeiren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabver82/node-challenge-CLI/issues"
+  },
+  "homepage": "https://github.com/fabver82/node-challenge-CLI#readme"
+}
